@@ -2,6 +2,10 @@
 
 Données utilisées pour la formation SIG OF.
 
+## Tutoriel QGIS
+
+https://tutoqgis.cnrs.fr/
+
 ## Données référentielles
 * Contours de Communes : https://public.opendatasoft.com/explore/assets/georef-france-commune/view/
 * Contours de Départements : https://public.opendatasoft.com/explore/assets/contours-geographiques-tres-simplifies-des-departements-2019/view/
