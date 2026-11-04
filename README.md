@@ -23,7 +23,9 @@ https://tutoqgis.cnrs.fr/
 * Base Permanente des Equipements (INSEE) : https://hub.huwise.com/explore/assets/buildingref-france-bpe-all-millesime/view/
 * Annuaire Santé (CPAM) :  https://public.opendatasoft.com/explore/dataset/medecins/table/?flg=fr
 * Etablissements de Santé : https://public.opendatasoft.com/explore/assets/healthref-france-finess/view/
-* Autorisations d'urbanismes : https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=datafile&datafileRid=8b35affb-55fc-4c1f-915b-7750f974446a&datafileMillesime=2025-10&tab=datas
+* Base SIRENE : https://public.opendatasoft.com/explore/assets/economicref-france-sirene-v3/view/
+* Documentation base SIRENE : https://www.insee.fr/fr/metadonnees/nafr2/section/A?champRecherche=true
+
 
 ## Outils en ligne
 * https://mapshaper.org/
