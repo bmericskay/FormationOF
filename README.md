@@ -11,7 +11,7 @@ https://tutoqgis.cnrs.fr/
 * Contours de Départements : https://public.opendatasoft.com/explore/assets/contours-geographiques-tres-simplifies-des-departements-2019/view/
 * Contours des Régions : https://hub.huwise.com/explore/assets/georef-france-region/view/
 * Contours des bassins de vie : https://hub.huwise.com/explore/assets/georef-france-bassin-vie-2022-millesime/view/
-* Contours des zones d'emplois - ODS 
+* Perimètres administratifs du monde : https://gadm.org/download_country.html
 
 
 ## Données thématiques
