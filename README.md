@@ -17,6 +17,8 @@ https://tutoqgis.cnrs.fr/
 ## Données thématiques
 * Prix de l'immobilier par commune en 2024 : https://www.data.gouv.fr/datasets/indicateurs-immobiliers-par-commune-et-par-annee-prix-et-volumes-sur-la-periode-2014-2024
 * Données INSEE : https://france-decouverte.geoclip.fr/#c=indicator
+* Données ANCT : https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive
+* Données Agreste : https://stats.agriculture.gouv.fr/cartostat/#view=map11&c=indicator
 * Base nationale des IRVE  : https://www.data.gouv.fr/datasets/base-nationale-des-irve-infrastructures-de-recharge-pour-vehicules-electriques/
 * Base Permanente des Equipements (INSEE) : https://hub.huwise.com/explore/assets/buildingref-france-bpe-all-millesime/view/
 * Annuaire Santé (CPAM) :  https://public.opendatasoft.com/explore/dataset/medecins/table/?flg=fr
