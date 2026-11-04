@@ -23,5 +23,8 @@ https://tutoqgis.cnrs.fr/
 * Etablissements de Santé : https://public.opendatasoft.com/explore/assets/healthref-france-finess/view/
 * Autorisations d'urbanismes : https://www.statistiques.developpement-durable.gouv.fr/catalogue?page=datafile&datafileRid=8b35affb-55fc-4c1f-915b-7750f974446a&datafileMillesime=2025-10&tab=datas
 
-
+## Outils en ligne
+* https://mapshaper.org/
+* https://overpass-turbo.eu/
+* https://account.heigit.org/login
 
