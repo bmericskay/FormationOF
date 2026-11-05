@@ -2,6 +2,10 @@
 
 Données utilisées pour la formation SIG OF.
 
+## Données
+
+https://github.com/bmericskay/data/blob/main/Communes.zip
+
 ## Tutoriel QGIS
 
 https://tutoqgis.cnrs.fr/
