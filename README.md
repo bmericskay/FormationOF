@@ -36,3 +36,10 @@ https://tutoqgis.cnrs.fr/
 * https://overpass-turbo.eu/
 * https://account.heigit.org/login
 
+## Tips Datawrapper
+* https://www.datawrapper.de/academy/custom-basemap-with-multiple-layers
+
+## Calage image dans QGIS
+* Tuto : https://www.geotests.net/cours/qgis/fr/lacquisition/numerisation-et-conversion/georeferencer
+* Image test : https://rennes-centreancien.fr/wp-content/uploads/2019/02/plan-de-rennes-en-1792-768x576.jpg
+
