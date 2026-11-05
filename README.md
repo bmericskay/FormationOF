@@ -7,7 +7,7 @@ Données utilisées pour la formation SIG OF.
 https://tutoqgis.cnrs.fr/
 
 ## Données référentielles
-* Contours de Communes : https://public.opendatasoft.com/explore/assets/georef-france-commune/view/
+* Contours de Communes : https://www.data.gouv.fr/datasets/contours-administratifs
 * Contours de Départements : https://public.opendatasoft.com/explore/assets/contours-geographiques-tres-simplifies-des-departements-2019/view/
 * Contours des Régions : https://hub.huwise.com/explore/assets/georef-france-region/view/
 * Contours des bassins de vie : https://hub.huwise.com/explore/assets/georef-france-bassin-vie-2022-millesime/view/
