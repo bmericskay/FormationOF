@@ -4,7 +4,8 @@ Données utilisées pour la formation SIG OF.
 
 ## Données
 
-https://github.com/bmericskay/data/blob/main/Communes.zip
+* Contours communes Bretagne : https://github.com/bmericskay/data/blob/main/Communes.zip
+* Données résidences secondaires : https://github.com/bmericskay/data/blob/main/Residence_Secondaire.xlsx
 
 ## Tutoriel QGIS
 
