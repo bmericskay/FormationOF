@@ -1,5 +1,9 @@
 # FormationOF
 
+Règles de sémiologie graphique :
+
+![Sémiologie](https://cartong.pages.gitlab.cartong.org/learning-corner/assets/images/toolbox9/7_2_golden_rules/1_semio_bis.png)
+
 Données utilisées pour la formation SIG OF.
 
 ## Données
