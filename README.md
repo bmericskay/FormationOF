@@ -2,7 +2,7 @@
 
 Règles de sémiologie graphique :
 
-![Sémiologie](images/1_semio_bis.png)
+![Sémiologie](1_semio_bis.png)
 
    
 Données utilisées pour la formation SIG OF.
